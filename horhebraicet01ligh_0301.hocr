@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horhebraicet01ligh_0301.png"; bbox 0 0 1965 3327; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 797 1282 1013 1324">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 797 1282 1013 1324">
+     <span class='ocr_line' id='line_1_1' title="bbox 797 1282 1013 1324; baseline 0.009 -2"><span class='ocrx_word' id='word_1_1' title='bbox 797 1283 835 1322; x_wconf 90' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_2' title='bbox 880 1282 1013 1324; x_wconf 85' lang='lat' dir='ltr'><strong>FEW</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 1430 1505 1509">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 1430 1505 1509">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 1430 1505 1509; baseline -0.003 0"><span class='ocrx_word' id='word_1_3' title='bbox 305 1432 1145 1509; x_wconf 74' lang='lat' dir='ltr'><strong>OHOROGRAPHIOAL</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1224 1430 1505 1508; x_wconf 75' lang='lat' dir='ltr'><strong>NOTES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 663 1618 1141 1646">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 663 1618 1141 1646">
+     <span class='ocr_line' id='line_1_3' title="bbox 663 1618 1141 1646; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 663 1618 1141 1646; x_wconf 83' lang='lat' dir='ltr'><strong>PPPPPPPPPPPPP</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 447 1756 1363 1805">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 447 1756 1363 1805">
+     <span class='ocr_line' id='line_1_4' title="bbox 447 1756 1363 1805; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 447 1757 864 1805; x_wconf 89' lang='lat' dir='ltr'><strong>MENTIONED</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 911 1758 986 1804; x_wconf 93' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1036 1757 1123 1804; x_wconf 81' lang='lat' dir='ltr'><strong>ST.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1161 1756 1363 1804; x_wconf 89' lang='lat' dir='ltr'><strong>LUKE.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
